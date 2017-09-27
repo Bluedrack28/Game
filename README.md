@@ -8,13 +8,13 @@
 ## Personnage 
 
 * Sexe homme / femme
-Début de game capaicté aleatoire
+Début de game capacité aléatoire
 
 ### Equipements
 
 * Arme
     * Dague epee glave
-    * Arc, pis
+    * Arc, pistolet
     * Etc.
 * Armure
     * Voir Idee deux
@@ -30,17 +30,11 @@ A voir
 ### Monnaie
 * Or, argent, cuivre
 * Commerce 
-    * Les PNGs vendent des trucs interresant
+    * Les PNJs vendent des trucs interresant
     * Marché noir
         * Gentiles
         * Mechants (encore plus noir que chez les gentils)
-## Monstres
 
-* Plus les monstres tue des gens plus il grossit
-* Tuer des monster unique pour avoir des capacité rare 
-    * Invisibiliter 
-    * Bonus fun
-    * 
 
 ## Lore
  
@@ -50,21 +44,27 @@ Tous le monde est neutre à la base
 * Zone reservé au mechant / gentile
     * Item reservé mechant / gentil
 * Ennemie
-
+### Map
+A voir
 ### Premier donjon
-
+A voir
 ## Multijoueurs
-
+A voir
 ### PvP
-
+A voir
+### Groupe
+A voir
+### Guilde
 A voir
 
-### Groupe
+## Monstres
 
-### Guilde
+* Plus les monstres tue des gens plus il grossit
+* Tuer des monster unique pour avoir des capacité rare 
+    * Invisibiliter (la vitre lol)
+    * Bonus fun
 
 ## Metiers
-
 ### Premiere idee
 
 * Forge
