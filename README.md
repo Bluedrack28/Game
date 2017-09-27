@@ -44,6 +44,11 @@ Tous le monde est neutre à la base
 * Zone reservé au mechant / gentile
     * Item reservé mechant / gentil
 * Ennemie
+* Les mechants et les gentils s'en veulent pour des raison completement con
+    * L'un a manger le gouter de l'autre 
+    * Au college il a piquer sa copine
+    * Etc.
+
 ### Map
 A voir
 ### Premier donjon
@@ -89,6 +94,7 @@ A voir
         * creation d'arme puissante magique
     * forgeron magie
         * sort à usage unique ou multipe puissant
+
 ### Idee deux
 
 Plus le niveau est haut plus les amures / arme sont personalisable
@@ -129,7 +135,7 @@ Les armes sont forger
 
 ### Hybridation de talent
 
-quand deux specialité sont assez maxer debloquage de competence propre au deux capicité
+Quand deux specialité sont assez maxer debloquage de competence propre au deux capicité
 Exemples:
 * Creation de totem de buff (Magie + Menuiserie)
 
@@ -137,3 +143,15 @@ Exemples:
 
 * Plusieur niveau d'objet pour chaque craft
 * Quand on fait un craft on a des chance d'avoir des niveau de rareter superieur
+
+
+## Refs
+
+* 2 girl 1 cup
+* Inconnu 
+    * c'est le mechant il veut tuer la gentile
+* Les propos qui me tient acoeur (hacker lel)
+* Les juifs
+* Item qui ont l'air trop badass mais non enfait
+* Le vibrotron
+* Maison d'Antoine Daniel qui ouvre dans 3 mois lel
