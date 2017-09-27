@@ -44,7 +44,7 @@ Tous le monde est neutre à la base
 * Zone reservé au mechant / gentile
     * Item reservé mechant / gentil
 * Ennemie
-* Les mechants et les gentils s'en veulent pour des raison completement con
+* Les méchants et les gentils s'en veulent pour des raison completement con
     * L'un a manger le gouter de l'autre 
     * Au college il a piquer sa copine
     * Etc.
@@ -68,34 +68,9 @@ A voir
 * Tuer des monster unique pour avoir des capacité rare 
     * Invisibiliter (la vitre lol)
     * Bonus fun
-
 ## Metiers
-### Premiere idee
 
-* Forge
-    * armurier
-    * forgeron
-    * ingenieurerie
-
-* Couture
-    * 
-
-* Cuisine 
-    * cusine fun
-    * cuisinier
-        * nouriture de haut qualité avec des buff de heal et de puissance
-        * trop de petit four -> cuisiner maudit
-    * 
-
-* Magie
-    * alchimiste
-        * creation de potions diverse
-    * enchanteur
-        * creation d'arme puissante magique
-    * forgeron magie
-        * sort à usage unique ou multipe puissant
-
-### Idee deux
+* Rarété: Dechets,commun,rare,épique,legendaire, over9000
 
 Plus le niveau est haut plus les amures / arme sont personalisable
 Varie en fonction de tes trophées
@@ -155,3 +130,13 @@ Exemples:
 * Item qui ont l'air trop badass mais non enfait
 * Le vibrotron
 * Maison d'Antoine Daniel qui ouvre dans 3 mois lel
+* Issou
+* 4chan
+* Armes: 
+    * Spatule de bob l'éponge (arme)
+    * Arme de Guts (BERSERK)
+    * Bout de bois ultime +1 de stats que le bout de bois standard
+
+### Haut faits
+
+A voir
